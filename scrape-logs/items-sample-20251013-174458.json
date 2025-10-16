@@ -1,0 +1,155 @@
+﻿{
+    "page":  1,
+    "limit":  10,
+    "total":  9,
+    "items":  [
+                  {
+                      "_id":  "68eced666ec79fb483b90f65",
+                      "url":  "https://inc42.com/features/dhan-journey-unicorn-investment-tech-slowdown/",
+                      "__v":  0,
+                      "createdAt":  "2025-10-13T12:15:34.540Z",
+                      "investmentType":  "other",
+                      "investor":  [
+
+                                   ],
+                      "publishedAt":  "2025-10-13T08:42:32.000Z",
+                      "score":  55,
+                      "sector":  "unknown",
+                      "source":  "inc42",
+                      "summary":  "Decoding Dhan’s Journey Into The Unicorn Club Amid Investment Tech’s Lean Era. Even as Zerodha and Groww are seeing a slowdown amid SEBI\u0027s stricter rules for derivatives trading, Dhan has bagged its biggest round yet and entered the unicorn club",
+                      "title":  "Decoding Dhan’s Journey Into The Unicorn Club Amid Investment Tech’s Lean Era",
+                      "updatedAt":  "2025-10-13T12:15:34.540Z"
+                  },
+                  {
+                      "_id":  "68eced5b6ec79fb483b90f64",
+                      "url":  "https://www.investindia.gov.in/team-india-blogs/how-indias-tax-reforms-are-shaping-investment-landscape",
+                      "__v":  0,
+                      "createdAt":  "2025-10-13T12:15:23.133Z",
+                      "investmentType":  "other",
+                      "investor":  [
+
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "investindia",
+                      "summary":  "How India\u0027s tax reforms are shaping the investment landscape. India\u0027s economy is rapidly growing and modernising, creating new opportunities for businesses and global investors. \u0026nbsp;Smart tax reforms, such as the Goods and Services Tax (GST) and l...",
+                      "title":  "How India\u0027s tax reforms are shaping the investment landscape",
+                      "updatedAt":  "2025-10-13T12:15:23.133Z"
+                  },
+                  {
+                      "_id":  "68eced5a6ec79fb483b90f63",
+                      "url":  "https://www.investindia.gov.in/team-india-blogs/top-seven-esdm-clusters-india-foreign-electronics-investment",
+                      "__v":  0,
+                      "company":  "foreign electronics investment",
+                      "createdAt":  "2025-10-13T12:15:22.894Z",
+                      "investmentType":  "other",
+                      "investor":  [
+
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "investindia",
+                      "summary":  "The top seven ESDM clusters in India for foreign electronics investment. As the world\u0027s fastest-growing major economy, India is not only a leader in services delivery, but it is also fast emerging as a global manufacturing hub. One of the strategic sectors dri...",
+                      "title":  "The top seven ESDM clusters in India for foreign electronics investment",
+                      "updatedAt":  "2025-10-13T12:15:22.894Z"
+                  },
+                  {
+                      "_id":  "68eced5a6ec79fb483b90f62",
+                      "url":  "https://www.investindia.gov.in/team-india-blogs/next-gen-gst-catalyst-growth-trade-and-investment",
+                      "__v":  0,
+                      "company":  "Growth",
+                      "createdAt":  "2025-10-13T12:15:22.713Z",
+                      "investmentType":  "other",
+                      "investor":  [
+
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "investindia",
+                      "summary":  "Next-Gen GST: A Catalyst for Growth, Trade, and Investment. India’s GST 2.0 cuts rates on 200+ goods \u0026 services, boosting affordability, business competitiveness, and FDI. Discover how this reform fuels growth \u0026 investor confidence.",
+                      "title":  "Next-Gen GST: A Catalyst for Growth, Trade, and Investment",
+                      "updatedAt":  "2025-10-13T12:15:22.713Z"
+                  },
+                  {
+                      "_id":  "68eced5a6ec79fb483b90f61",
+                      "url":  "https://www.investindia.gov.in/team-india-blogs/indias-prip-scheme-generics-leader-innovation-powerhouse-pharma-medtech",
+                      "__v":  0,
+                      "createdAt":  "2025-10-13T12:15:22.582Z",
+                      "investmentType":  "grant",
+                      "investor":  [
+                                       "Generics Leader to Innovation Powerhouse in Pharma \u0026 MedTech India"
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "investindia",
+                      "summary":  "India’s PRIP Scheme: From Generics Leader to Innovation Powerhouse in Pharma \u0026 MedTech. Introduction\n\nIndia is the world’s pharmaceutical powerhouse. Also called the ‘pharmacy of the world,’ India plays a significant role in supplying generic drugs, vaccines, and Active Ph...",
+                      "title":  "India’s PRIP Scheme: From Generics Leader to Innovation Powerhouse in Pharma \u0026 MedTech",
+                      "updatedAt":  "2025-10-13T12:15:22.582Z"
+                  },
+                  {
+                      "_id":  "68eced5a6ec79fb483b90f60",
+                      "url":  "https://www.investindia.gov.in/team-india-blogs",
+                      "__v":  0,
+                      "createdAt":  "2025-10-13T12:15:22.162Z",
+                      "investmentType":  "other",
+                      "investor":  [
+                                       "the Invest India team"
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "investindia",
+                      "summary":  "BLOGS. Get the latest information about investment and business opportunities across various sectors and locations from the Invest India team",
+                      "title":  "BLOGS",
+                      "updatedAt":  "2025-10-13T12:15:22.162Z"
+                  },
+                  {
+                      "_id":  "68eced596ec79fb483b90f5f",
+                      "url":  "https://www.investindia.gov.in/sector/ayush",
+                      "__v":  0,
+                      "createdAt":  "2025-10-13T12:15:21.838Z",
+                      "investmentType":  "other",
+                      "investor":  [
+
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "investindia",
+                      "summary":  "Ayush. Rapidly growing, investor-friendly market with significant export potential, backed by government support and a strong focus on innovation and sustainability.",
+                      "title":  "Ayush",
+                      "updatedAt":  "2025-10-13T12:15:21.838Z"
+                  },
+                  {
+                      "_id":  "68eced516ec79fb483b90f5e",
+                      "url":  "https://www.startupindia.gov.in/content/sih/en/incubator-schemes.html",
+                      "__v":  0,
+                      "createdAt":  "2025-10-13T12:15:13.566Z",
+                      "investmentType":  "grant",
+                      "investor":  [
+
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "startupindia",
+                      "summary":  "Incubator Schemes. Incubator Schemes under Startup India support early-stage startups by providing funding, mentorship, infrastructure, and networking opportunities through accredited incubators across India.\n\n",
+                      "title":  "Incubator Schemes",
+                      "updatedAt":  "2025-10-13T12:15:13.566Z"
+                  },
+                  {
+                      "_id":  "68eced516ec79fb483b90f5d",
+                      "url":  "https://www.startupindia.gov.in/content/sih/en/credit-guarantee-scheme-for-startups.html",
+                      "__v":  0,
+                      "company":  "STARTUPS",
+                      "createdAt":  "2025-10-13T12:15:13.080Z",
+                      "investmentType":  "grant",
+                      "investor":  [
+
+                                   ],
+                      "score":  45,
+                      "sector":  "unknown",
+                      "source":  "startupindia",
+                      "summary":  "Credit GUARANTEE SCHEME FOR STARTUPS. ",
+                      "title":  "Credit GUARANTEE SCHEME FOR STARTUPS",
+                      "updatedAt":  "2025-10-13T12:15:13.080Z"
+                  }
+              ]
+}

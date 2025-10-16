@@ -1,0 +1,14 @@
+﻿{
+    "ran":  [
+                "inc42"
+            ],
+    "results":  [
+                    {
+                        "urls":  7,
+                        "saved":  1,
+                        "skipped":  6,
+                        "dup":  0,
+                        "errors":  0
+                    }
+                ]
+}

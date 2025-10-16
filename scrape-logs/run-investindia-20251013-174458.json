@@ -1,0 +1,14 @@
+﻿{
+    "ran":  [
+                "investindia"
+            ],
+    "results":  [
+                    {
+                        "urls":  60,
+                        "saved":  6,
+                        "skipped":  52,
+                        "dup":  0,
+                        "errors":  2
+                    }
+                ]
+}

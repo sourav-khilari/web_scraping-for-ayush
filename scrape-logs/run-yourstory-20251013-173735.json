@@ -1,0 +1,14 @@
+﻿{
+    "ran":  [
+                "yourstory"
+            ],
+    "results":  [
+                    {
+                        "urls":  0,
+                        "saved":  0,
+                        "skipped":  0,
+                        "dup":  0,
+                        "errors":  0
+                    }
+                ]
+}

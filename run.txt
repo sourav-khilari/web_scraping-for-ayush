@@ -1,0 +1,7 @@
+souravkhilari_db_user
+XvBxiXfhDJ3Ppzym
+
+
+$headers = @{ "x-admin-token" = "change-me"}
+Invoke-RestMethod -Method Post -Uri "http://localhost:8080/api/jobs/run?source=inc42" -Headers $headers
+Invoke-RestMethod -Method Post -Uri "http://localhost:8080/api/jobs/run?source=ayushmin" -Headers $headers
